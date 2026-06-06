@@ -1,0 +1,1 @@
+const url = `http://api.weatherapi.com/v1/current.json?key=${API_KEY}&q=Ottawa`;
